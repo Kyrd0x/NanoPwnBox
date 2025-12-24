@@ -1,7 +1,7 @@
 #!/bin/sh
 
 DEVICE="/dev/mmcblk0"
-MOUNTPOINT="/mnt/test"
+MOUNTPOINT="/mnt/debian"
 
 echo "### Listing partitions on $DEVICE ###"
 fdisk -l $DEVICE
