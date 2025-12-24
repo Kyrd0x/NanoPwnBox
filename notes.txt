@@ -1,0 +1,7 @@
+debian 12 arm64 iso
+
+
+## Ressources
+
+https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R3S#Work_with_Debian_Core
+https://medium.com/@cihananthony/pisquirrel-the-open-source-red-teaming-wiretap-and-dropbox-cc5ddc96e05d
